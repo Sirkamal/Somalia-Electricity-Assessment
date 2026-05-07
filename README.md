@@ -22,7 +22,7 @@ I looked at Somalia's electricity sector using public data. The picture is not g
 
 ## What this is for
 
-This project is part of my Chapter 2 portfolio – applying data auditing and reliability thinking to real policy questions. I turned messy institutional data into clean numbers, clear visuals, and an honest summary of where Somalia stands.
+This project applies data analysis and visualization to Somalia's electricity sector assessment, produced as part of my work at the National Economic Council
 
 ## About me
 
