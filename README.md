@@ -4,7 +4,7 @@ I looked at Somalia's electricity sector — how it's generated, who has access,
 
 ## What I found
 
-- **Electricity consumption in Somalia is extremely low.** At around 23 kWh per person per year, it's a fraction of Kenya's 1,953 kWh or the global average of 3,662 kWh. In fact, per‑capita consumption has actually *fallen* from 45 kWh in 1993 to 23 kWh today.[reference:0][reference:1]
+- **Electricity consumption in Somalia is extremely low.** At around 23 kWh per person per year, it's a fraction of Kenya's 1,953 kWh or the global average of 3,662 kWh. In fact, per‑capita consumption has actually *fallen* from 45 kWh in 1993 to 23 kWh today.
 - **Diesel still dominates the generation mix.** Diesel generators make up about 75% of installed capacity, while solar and wind combined account for only 25%.[reference:2] Solar is growing from a tiny base, but not nearly fast enough to replace diesel any time soon.
 - **Energy access is split between urban and rural.** Around 80% of urban households have electricity, but only about 24% of rural communities – and less than 9% of nomadic populations – are connected.[reference:3] The national average is barely 50%.
 - **Clean cooking fuels are almost non‑existent.** Between 2017 and 2021, access to clean cooking fuels rose from 2.4% to just 3.8% of the population. At that pace, universal coverage would take over 250 years.
@@ -31,6 +31,19 @@ I looked at Somalia's electricity sector — how it's generated, who has access,
 ## About this project
 
 This is part of my Chapter 2 portfolio – applying data auditing and reliability thinking to real policy questions. The goal is to turn messy institutional data into a clean dataset, a clear visual, and an honest decision‑risk statement.
+Somalia-Electricity-Assessment/
+├── notebook/
+│   └── Somalia_Electricity_Analysis.ipynb
+├── figures/
+│   ├── figure1_electricity_access.jpg
+│   ├── figure2_generation_mix.jpg
+│   ├── figure3_regional_capacity.jpg
+│   ├── figure4_tariff_inequality.jpg
+│   ├── figure5_energy_comparison.jpg
+│   └── figure6_clean_cooking.jpg
+├── data/
+│   └── Electricity_data.xlsx
+└── README.md
 
 ## About me
 
