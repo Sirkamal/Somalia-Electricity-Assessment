@@ -1,37 +1,29 @@
 # Somalia Electricity Assessment
 
-I looked at Somalia's electricity sector — how it's generated, who has access, and where the gaps are. The data tells a clear story: Somalia lags far behind its neighbours and most of the population is still locked out of reliable power.
+I looked at Somalia's electricity sector using public data. The picture is not good.
 
-## What I found
+## What the data shows
 
-- **Electricity consumption in Somalia is extremely low.** At around 23 kWh per person per year, it's a fraction of Kenya's 1,953 kWh or the global average of 3,662 kWh. In fact, per‑capita consumption has actually *fallen* from 45 kWh in 1993 to 23 kWh today.
-- **Diesel still dominates the generation mix.** Diesel generators make up about 75% of installed capacity, while solar and wind combined account for only 25%.[reference:2] Solar is growing from a tiny base, but not nearly fast enough to replace diesel any time soon.
-- **Energy access is split between urban and rural.** Around 80% of urban households have electricity, but only about 24% of rural communities – and less than 9% of nomadic populations – are connected.[reference:3] The national average is barely 50%.
-- **Clean cooking fuels are almost non‑existent.** Between 2017 and 2021, access to clean cooking fuels rose from 2.4% to just 3.8% of the population. At that pace, universal coverage would take over 250 years.
-- **Electricity is expensive.** The average cost in 2023 was about $0.61/kWh, and in some diesel‑dependent areas it exceeds $1/kWh – several times higher than the African average.[reference:4]
+**Access is split.** Urban areas have about 80% coverage. Rural and nomadic communities are far behind. The national average of 61.9% hides that gap.
 
-## What the charts show
+**Diesel still rules.** In 2013, diesel made up nearly all generation capacity. By 2022, it's still around 75%. Solar has grown but only to 12%. Too slow to replace diesel any time soon.
 
-- **Figure 2 – Diesel decline vs solar growth:** Diesel still dominates, and solar isn't growing fast enough to close the gap.
-- **Figure 5 – East Africa energy comparison:** Somalia consumes the least electricity per person in the region by a wide margin.
-- **Figure 6 – Clean cooking fuel access:** Progress is stuck. The gap from the current 3.8% to 100% is enormous.
+**Tariffs are unfair.** In Mogadishu you pay $0.36/kWh. In Galmudug or Hirshabelle it's $1.00/kWh – nearly triple. That's not a national market; it's expensive islands of power.
 
-## Data & figures
+**Consumption is the lowest in East Africa.** Somalia uses 217 kWh per person per year. Kenya uses 1,953. That's a nine‑fold gap. You cannot run factories, schools, or hospitals with that little electricity.
 
-- `Data/` – the Excel files I cleaned and analysed.
-- `Figures/` – the charts I generated from the data.
-- `notebook/` – the Jupyter notebook with all the code.
+**Clean cooking is almost nowhere.** Only 3.8% of people had access to clean cooking fuels in 2021 (up from 2.4% in 2017). At this rate, universal access would take centuries. Most people still burn wood or charcoal indoors – a health crisis.
 
-## How to run the notebook
+## Files in this repo
 
-1. Clone the repo
-2. Install the dependencies (pandas, matplotlib, seaborn, openpyxl)
-3. Run `notebook/Somalia_Electricity_Analysis.ipynb`
+- `notebook/` – the Jupyter notebook with all the cleaning and analysis.
+- `Figures/` – the charts (access, generation mix, tariff comparison, consumption per capita, clean cooking trend).
+- `Data/` – the original Excel files.
 
-## About this project
+## What this is for
 
-This is part of my Chapter 2 portfolio – applying data auditing and reliability thinking to real policy questions. The goal is to turn messy institutional data into a clean dataset, a clear visual, and an honest decision‑risk statement.
+This project is part of my Chapter 2 portfolio – applying data auditing and reliability thinking to real policy questions. I turned messy institutional data into clean numbers, clear visuals, and an honest summary of where Somalia stands.
 
 ## About me
 
-I'm Kamal Mohamed, a decision‑focused ML and forecasting analyst building a portfolio in policy and development. I question data before I use it.
+I'm Kamal Mohamed (sirkamal). I build decision‑focused forecasts and audit data for policy and development work. I don't trust numbers until I question where they came from and who is missing.
