@@ -31,19 +31,6 @@ I looked at Somalia's electricity sector — how it's generated, who has access,
 ## About this project
 
 This is part of my Chapter 2 portfolio – applying data auditing and reliability thinking to real policy questions. The goal is to turn messy institutional data into a clean dataset, a clear visual, and an honest decision‑risk statement.
-Somalia-Electricity-Assessment/
-├── notebook/
-│   └── Somalia_Electricity_Analysis.ipynb
-├── figures/
-│   ├── figure1_electricity_access.jpg
-│   ├── figure2_generation_mix.jpg
-│   ├── figure3_regional_capacity.jpg
-│   ├── figure4_tariff_inequality.jpg
-│   ├── figure5_energy_comparison.jpg
-│   └── figure6_clean_cooking.jpg
-├── data/
-│   └── Electricity_data.xlsx
-└── README.md
 
 ## About me
 
